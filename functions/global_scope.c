@@ -8,9 +8,9 @@ int main()
 {
     printf("Before interchanging:");
     disp();
-
+    
     printf("After interchanging:");
-    global=10;
+        global=10;
     disp();
     return 0;
 
